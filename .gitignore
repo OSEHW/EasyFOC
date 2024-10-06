@@ -1,0 +1,9 @@
+*.*
+*
+!Algorithm
+!Algorithm/**
+!Devices
+!Devices/**
+!User/main.c
+!README.md
+!.gitignore
